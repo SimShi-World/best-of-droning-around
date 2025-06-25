@@ -1,11 +1,20 @@
 configuration:
   markdown_header_file: "config/header.md"
   markdown_footer_file: "config/footer.md"
+  require_homepage: false
+  require_license: false
+  allowed_licenses: ["all"]
+  project_inactive_months: 12
+  project_dead_months: 999999  # 60 to check
 
 categories:
-  # - category: "data-engineering"
-  #   title: "Machine Learning & Data Engineering"
-  #   subtitle: "Best-of lists about machine learning, data engieering, data science, or other topics related to big data."
+  - category: AirSim
+    title: "Aerial Robotics Simulators"
+    subtitle: "Best-of simulators for aerial robotics. Based of Kimberly McGuire Best-of-Robotics-Simulators."
+  - category: Algorithms
+    title: "Drone Algorithms"
+    subtitle: "Best-of algorithms for localization, tracking and droning around."
+  
 
 labels:
   # - label: "python"
@@ -13,7 +22,59 @@ labels:
   #   description: "Best-of list with Python projects"
 
 projects:
-  # - name: best-of-ml-python
-  #   github_id: ml-tooling/best-of-ml-python
-  #   labels: ["python"]
-  #   category: "data-engineering"
+  # Simulators
+  # Add here new simulators for Aerial Robotics
+  - name: Best-of-Robotics-Simulators
+    github_id: knmcguire/best-of-robot-simulators
+    labels: []
+    resource: True
+    category: AirSim
+  - name: Cosys-AirSim
+    github_id: Cosys-Lab/Cosys-AirSim
+    labels: []
+    license: mit
+    homepage: https://cosys-lab.github.io/Cosys-AirSim/
+    category: AirSim
+  - name: Swarm Sync Sim
+    github_id: shupx/swarm_sync_sim
+    labels: []
+    category: AirSim
+  - name: Pegasus Simulator
+    github_id: PegasusSimulator/PegasusSimulator
+    labels: []
+    homepage: https://pegasussimulator.github.io/PegasusSimulator/
+    category: AirSim
+  - name: Aerial Gym Simulator
+    github_id: ntnu-arl/aerial_gym_simulator
+    labels: []
+    homepage: https://ntnu-arl.github.io/aerial_gym_simulator/
+    category: AirSim
+  - name: Isaac Sim
+    github_id: isaac-sim/IsaacSim
+    labels: []
+    homepage: "https://developer.nvidia.com/isaac/sim"
+    license: Apache 2.0 and NVIDIA Omniverse License Agreement
+    category: AirSim
+  - name: Gazebo
+    github_id: gazebosim/gz-sim
+    labels: []
+    doc_url: https://gazebosim.org/api/sim/9/
+    category: AirSim
+  - name: WeBots
+    github_id: cyberbotics/webots
+    labels: []
+    homepage: "https://www.cyberbotics.com/"
+    category: AirSim
+  # Algorithms
+  # Add here new algorithms for Aerial Robotics.
+  - name: Isaac Visual Slam
+    github_id: NVIDIA-ISAAC-ROS/isaac_ros_visual_slam
+    labels: []
+    category: Algorithms
+  - name: Nav2
+    github_id: ros-navigation/navigation2
+    labels: []
+    category: Algorithms
+
+  
+
