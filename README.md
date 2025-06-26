@@ -48,11 +48,11 @@ This curated list contains 10 awesome open-source projects with a total of 12K s
 
 _Best-of simulators for aerial robotics. Based of Kimberly McGuire Best-of-Robotics-Simulators._
 
-🔗&nbsp;<b><a href="https://github.com/knmcguire/best-of-robot-simulators">Best-of-Robotics-Simulators</a></b> ( ⭐ 760 · 🐣)  - A Best-of-list of Robot Simulators, re-generated weekly..
+🔗&nbsp;<b><a href="https://github.com/knmcguire/best-of-robot-simulators">Best-of-Robotics-Simulators</a></b> ( ⭐ 770 · 🐣)  - A Best-of-list of Robot Simulators, re-generated weekly..
 
 <details><summary><b><a href="https://www.cyberbotics.com/">WeBots</a></b> (🥇29 ·  ⭐ 3.6K) - Webots Robot Simulator. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/cyberbotics/webots) (👨‍💻 140 · 🔀 1.8K · 📥 1.7M · 📋 1.9K - 11% open · ⏱️ 24.06.2025):
+- [GitHub](https://github.com/cyberbotics/webots) (👨‍💻 140 · 🔀 1.8K · 📥 1.7M · 📋 1.9K - 11% open · ⏱️ 26.06.2025):
 
 	```
 	git clone https://github.com/cyberbotics/webots
@@ -84,15 +84,15 @@ _Best-of simulators for aerial robotics. Based of Kimberly McGuire Best-of-Robot
 </details>
 <details><summary><b><a href="https://pegasussimulator.github.io/PegasusSimulator/">Pegasus Simulator</a></b> (🥉15 ·  ⭐ 480) - A framework built on top of NVIDIA Isaac Sim for simulating.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/PegasusSimulator/PegasusSimulator) (👨‍💻 4 · 🔀 81 · 📋 44 - 31% open · ⏱️ 03.06.2025):
+- [GitHub](https://github.com/PegasusSimulator/PegasusSimulator) (👨‍💻 4 · 🔀 81 · 📋 45 - 33% open · ⏱️ 03.06.2025):
 
 	```
 	git clone https://github.com/PegasusSimulator/PegasusSimulator
 	```
 </details>
-<details><summary><b><a href="https://developer.nvidia.com/isaac/sim">Isaac Sim</a></b> (🥉10 ·  ⭐ 910 · 🐣) - NVIDIA Isaac Sim is an open-source application on.. <code><a href="https://tldrlegal.com/search?q=Apache%202.0%20and%20NVIDIA%20Omniverse%20License%20Agreement">❗️Apache 2.0 and NVIDIA Omniverse License Agreement</a></code></summary>
+<details><summary><b><a href="https://developer.nvidia.com/isaac/sim">Isaac Sim</a></b> (🥉10 ·  ⭐ 920 · 🐣) - NVIDIA Isaac Sim is an open-source application on.. <code><a href="https://tldrlegal.com/search?q=Apache%202.0%20and%20NVIDIA%20Omniverse%20License%20Agreement">❗️Apache 2.0 and NVIDIA Omniverse License Agreement</a></code></summary>
 
-- [GitHub](https://github.com/isaac-sim/IsaacSim) (👨‍💻 5 · 🔀 96 · 📋 28 - 67% open · ⏱️ 18.06.2025):
+- [GitHub](https://github.com/isaac-sim/IsaacSim) (👨‍💻 5 · 🔀 98 · 📋 31 - 70% open · ⏱️ 18.06.2025):
 
 	```
 	git clone https://github.com/isaac-sim/IsaacSim
@@ -112,7 +112,7 @@ _Best-of algorithms for localization, tracking and droning around._
 
 <details><summary><b><a href="https://github.com/ros-navigation/navigation2">Nav2</a></b> (🥇25 ·  ⭐ 3.2K) - ROS 2 Navigation Framework and System. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/ros-navigation/navigation2) (👨‍💻 310 · 🔀 1.5K · 📋 2.3K - 3% open · ⏱️ 25.06.2025):
+- [GitHub](https://github.com/ros-navigation/navigation2) (👨‍💻 310 · 🔀 1.5K · 📋 2.3K - 3% open · ⏱️ 26.06.2025):
 
 	```
 	git clone https://github.com/ros-navigation/navigation2
