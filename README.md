@@ -15,7 +15,7 @@
     <a href="https://github.com/SimShi-World/best-of-droning-around/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/SimShi-World/best-of-droning-around?color=green&label=updated"></a>
 </p>
 
-This curated list contains 10 awesome open-source projects with a total of 12K stars grouped into 2 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/SimShi-World/best-of-droning-around/issues/new/choose), submit a [pull request](https://github.com/SimShi-World/best-of-droning-around/pulls), or directly edit the [projects.yaml](https://github.com/SimShi-World/best-of-droning-around/edit/main/projects.yaml). Contributions are very welcome!
+This curated list contains 10 awesome open-source projects with a total of 14K stars grouped into 2 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/SimShi-World/best-of-droning-around/issues/new/choose), submit a [pull request](https://github.com/SimShi-World/best-of-droning-around/pulls), or directly edit the [projects.yaml](https://github.com/SimShi-World/best-of-droning-around/edit/main/projects.yaml). Contributions are very welcome!
 
 > 🧙‍♂️  Discover other [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
 
@@ -48,59 +48,59 @@ This curated list contains 10 awesome open-source projects with a total of 12K s
 
 _Best-of simulators for aerial robotics. Based of Kimberly McGuire Best-of-Robotics-Simulators._
 
-🔗&nbsp;<b><a href="https://github.com/knmcguire/best-of-robot-simulators">Best-of-Robotics-Simulators</a></b> ( ⭐ 760 · 🐣)  - A Best-of-list of Robot Simulators, re-generated weekly..
+🔗&nbsp;<b><a href="https://github.com/knmcguire/best-of-robot-simulators">Best-of-Robotics-Simulators</a></b> ( ⭐ 980 · 🐣)  - A Best-of-list of Robot Simulators, re-generated weekly..
 
-<details><summary><b><a href="https://www.cyberbotics.com/">WeBots</a></b> (🥇29 ·  ⭐ 3.6K) - Webots Robot Simulator. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://www.cyberbotics.com/">WeBots</a></b> (🥇28 ·  ⭐ 3.9K · 📉) - Webots Robot Simulator. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/cyberbotics/webots) (👨‍💻 140 · 🔀 1.8K · 📥 1.7M · 📋 1.9K - 11% open · ⏱️ 24.06.2025):
+- [GitHub](https://github.com/cyberbotics/webots) (👨‍💻 140 · 🔀 1.8K · 📥 1.7M · 📋 1.9K - 12% open · ⏱️ 26.08.2025):
 
 	```
 	git clone https://github.com/cyberbotics/webots
 	```
 </details>
-<details><summary><b><a href="https://cosys-lab.github.io/Cosys-AirSim/">Cosys-AirSim</a></b> (🥈22 ·  ⭐ 180) - AirSim is a simulator for drones, cars and more, built on Unreal.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/gazebosim/gz-sim">Gazebo</a></b> (🥈22 ·  ⭐ 1.1K · 📈) - Open source robotics simulator. The latest version of Gazebo. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/Cosys-Lab/Cosys-AirSim) (👨‍💻 260 · 🔀 55 · 📥 3.5K · 📋 66 - 48% open · ⏱️ 16.04.2025):
-
-	```
-	git clone https://github.com/Cosys-Lab/Cosys-AirSim
-	```
-</details>
-<details><summary><b><a href="https://github.com/gazebosim/gz-sim">Gazebo</a></b> (🥈21 ·  ⭐ 930) - Open source robotics simulator. The latest version of Gazebo. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
-
-- [GitHub](https://github.com/gazebosim/gz-sim) (👨‍💻 150 · 🔀 300 · 📋 970 - 42% open · ⏱️ 18.06.2025):
+- [GitHub](https://github.com/gazebosim/gz-sim) (👨‍💻 160 · 🔀 330 · 📋 1K - 43% open · ⏱️ 29.10.2025):
 
 	```
 	git clone https://github.com/gazebosim/gz-sim
 	```
 </details>
-<details><summary><b><a href="https://ntnu-arl.github.io/aerial_gym_simulator/">Aerial Gym Simulator</a></b> (🥉15 ·  ⭐ 510) - Aerial Gym Simulator - Isaac Gym Simulator for Aerial.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://cosys-lab.github.io/Cosys-AirSim/">Cosys-AirSim</a></b> (🥈20 ·  ⭐ 250 · 📉) - AirSim is a simulator for drones, cars and more, built on.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/ntnu-arl/aerial_gym_simulator) (👨‍💻 4 · 🔀 80 · 📋 33 - 15% open · ⏱️ 04.06.2025):
+- [GitHub](https://github.com/Cosys-Lab/Cosys-AirSim) (👨‍💻 260 · 🔀 85 · 📥 7.6K · 📋 79 - 49% open · ⏱️ 03.10.2025):
 
 	```
-	git clone https://github.com/ntnu-arl/aerial_gym_simulator
+	git clone https://github.com/Cosys-Lab/Cosys-AirSim
 	```
 </details>
-<details><summary><b><a href="https://pegasussimulator.github.io/PegasusSimulator/">Pegasus Simulator</a></b> (🥉15 ·  ⭐ 480) - A framework built on top of NVIDIA Isaac Sim for simulating.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://pegasussimulator.github.io/PegasusSimulator/">Pegasus Simulator</a></b> (🥉16 ·  ⭐ 610 · 📈) - A framework built on top of NVIDIA Isaac Sim for.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/PegasusSimulator/PegasusSimulator) (👨‍💻 4 · 🔀 81 · 📋 44 - 31% open · ⏱️ 03.06.2025):
+- [GitHub](https://github.com/PegasusSimulator/PegasusSimulator) (👨‍💻 5 · 🔀 110 · 📋 57 - 38% open · ⏱️ 26.10.2025):
 
 	```
 	git clone https://github.com/PegasusSimulator/PegasusSimulator
 	```
 </details>
-<details><summary><b><a href="https://developer.nvidia.com/isaac/sim">Isaac Sim</a></b> (🥉10 ·  ⭐ 910 · 🐣) - NVIDIA Isaac Sim is an open-source application on.. <code><a href="https://tldrlegal.com/search?q=Apache%202.0%20and%20NVIDIA%20Omniverse%20License%20Agreement">❗️Apache 2.0 and NVIDIA Omniverse License Agreement</a></code></summary>
+<details><summary><b><a href="https://developer.nvidia.com/isaac/sim">Isaac Sim</a></b> (🥉15 ·  ⭐ 1.8K · 🐣) - NVIDIA Isaac Sim is an open-source application on.. <code><a href="https://tldrlegal.com/search?q=Apache%202.0%20and%20NVIDIA%20Omniverse%20License%20Agreement">❗️Apache 2.0 and NVIDIA Omniverse License Agreement</a></code></summary>
 
-- [GitHub](https://github.com/isaac-sim/IsaacSim) (👨‍💻 5 · 🔀 96 · 📋 28 - 67% open · ⏱️ 18.06.2025):
+- [GitHub](https://github.com/isaac-sim/IsaacSim) (👨‍💻 5 · 🔀 220 · 📋 190 - 31% open · ⏱️ 21.10.2025):
 
 	```
 	git clone https://github.com/isaac-sim/IsaacSim
 	```
 </details>
+<details><summary><b><a href="https://ntnu-arl.github.io/aerial_gym_simulator/">Aerial Gym Simulator</a></b> (🥉13 ·  ⭐ 580 · 📉) - Aerial Gym Simulator - Isaac Gym Simulator for Aerial.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+
+- [GitHub](https://github.com/ntnu-arl/aerial_gym_simulator) (👨‍💻 4 · 🔀 95 · 📋 46 - 26% open · ⏱️ 30.09.2025):
+
+	```
+	git clone https://github.com/ntnu-arl/aerial_gym_simulator
+	```
+</details>
 <details><summary>Show 1 hidden projects...</summary>
 
-- <b><a href="https://github.com/shupx/swarm_sync_sim">Swarm Sync Sim</a></b> (🥉7 ·  ⭐ 8) - swarm_sync_sim (also known as sss) is an ultra-lightweight, ROS-.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
+- <b><a href="https://github.com/shupx/swarm_sync_sim">Swarm Sync Sim</a></b> (🥉6 ·  ⭐ 16 · 📉) - swarm_sync_sim (also known as sss) is an ultra-lightweight,.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
 </details>
 <br>
 
@@ -110,17 +110,17 @@ _Best-of simulators for aerial robotics. Based of Kimberly McGuire Best-of-Robot
 
 _Best-of algorithms for localization, tracking and droning around._
 
-<details><summary><b><a href="https://github.com/ros-navigation/navigation2">Nav2</a></b> (🥇25 ·  ⭐ 3.2K) - ROS 2 Navigation Framework and System. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/ros-navigation/navigation2">Nav2</a></b> (🥇25 ·  ⭐ 3.6K) - ROS 2 Navigation Framework and System. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/ros-navigation/navigation2) (👨‍💻 310 · 🔀 1.5K · 📋 2.3K - 3% open · ⏱️ 25.06.2025):
+- [GitHub](https://github.com/ros-navigation/navigation2) (👨‍💻 330 · 🔀 1.6K · 📋 2.4K - 4% open · ⏱️ 26.10.2025):
 
 	```
 	git clone https://github.com/ros-navigation/navigation2
 	```
 </details>
-<details><summary><b><a href="https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_visual_slam">Isaac Visual Slam</a></b> (🥉14 ·  ⭐ 1.1K) - Visual SLAM/odometry package based on NVIDIA-.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_visual_slam">Isaac Visual Slam</a></b> (🥉14 ·  ⭐ 1.2K) - Visual SLAM/odometry package based on NVIDIA-.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_visual_slam) (👨‍💻 4 · 🔀 160 · 📋 160 - 35% open · ⏱️ 03.04.2025):
+- [GitHub](https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_visual_slam) (👨‍💻 4 · 🔀 170 · 📋 170 - 36% open · ⏱️ 26.10.2025):
 
 	```
 	git clone https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_visual_slam
