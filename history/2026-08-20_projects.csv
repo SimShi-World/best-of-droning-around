@@ -1,0 +1,11 @@
+,name,github_id,labels,resource,category,homepage,contributor_count,description,projectrank,show,license,projectrank_placing,trending,doc_url
+0,Best-of-Robotics-Simulators,knmcguire/best-of-robot-simulators,[],True,AirSim,{},15,,0,True,,,,
+1,Cosys-AirSim,Cosys-Lab/Cosys-AirSim,[],,AirSim,https://cosys-lab.github.io/Cosys-AirSim/,268,,4,False,mit,1.0,-18.0,
+2,Gazebo,gazebosim/gz-sim,[],,AirSim,{},192,,2,False,,2.0,-19.0,https://gazebosim.org/api/sim/9/
+3,Nav2,ros-navigation/navigation2,[],,Algorithms,{},397,,2,False,,1.0,-23.0,
+4,Isaac Sim,isaac-sim/IsaacSim,[],,AirSim,https://developer.nvidia.com/isaac/sim,5,,1,False,Apache 2.0 and NVIDIA Omniverse License Agreement,3.0,,
+5,WeBots,cyberbotics/webots,[],,AirSim,https://www.cyberbotics.com/,146,,1,False,,3.0,-28.0,
+6,Swarm Sync Sim,shupx/swarm_sync_sim,[],,AirSim,{},3,,0,False,,,,
+7,Pegasus Simulator,PegasusSimulator/PegasusSimulator,[],,AirSim,https://pegasussimulator.github.io/PegasusSimulator/,6,,0,False,,,-15.0,
+8,Aerial Gym Simulator,ntnu-arl/aerial_gym_simulator,[],,AirSim,https://ntnu-arl.github.io/aerial_gym_simulator/,4,,0,False,,,,
+9,Isaac Visual Slam,NVIDIA-ISAAC-ROS/isaac_ros_visual_slam,[],,Algorithms,{},6,,0,False,,,,
